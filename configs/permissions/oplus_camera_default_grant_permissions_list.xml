@@ -7,4 +7,5 @@
         <permission name="android.permission.READ_EXTERNAL_STORAGE"/>
         <permission name="android.permission.READ_PHONE_STATE"/>
     </exception>
+
 </exceptions>

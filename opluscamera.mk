@@ -10,6 +10,9 @@ PRODUCT_PACKAGES += \
 #PRODUCT_PACKAGES += \
 #    init.oplus.camera.rc
 
+PRODUCT_PACKAGES += \
+     OnePlusGallery
+
 # Permissions
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/permissions/oplus_google_lens_config.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/permissions/oplus_google_lens_config.xml \
